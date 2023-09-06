@@ -40,10 +40,19 @@ def banner():
     print(f"\n{stars}\n{message}\n{stars}\n")
 
 
+# Instructions function
+def instructions():
+    """Print instructions"""
+    print("Enter a sentence and this program will convert it to camel case.")
+
+
 # Main function
 def main():
     # banner display at first
     banner()
+
+    # Instructions to users
+    instructions()
 
     # Users input text
     text = input("Enter your text here: ")

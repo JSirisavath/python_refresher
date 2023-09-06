@@ -1,3 +1,6 @@
+""" Camel case converter program! """
+
+
 import re  # regex import library
 
 

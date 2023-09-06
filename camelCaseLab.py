@@ -32,7 +32,7 @@ def convert_strings_to_camel_case(text):
 
 # Banner function
 def banner():
-    """Display program name"""
+    """Display program name, using stars"""
     message = "Awesome camel case program!"
 
     stars = "*" * len(message)
@@ -42,7 +42,7 @@ def banner():
 
 # Instructions function
 def instructions():
-    """Print instructions"""
+    """Print instructions for how to use this program"""
     print("Enter a sentence and this program will convert it to camel case.")
 
 

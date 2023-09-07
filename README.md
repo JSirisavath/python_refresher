@@ -11,7 +11,7 @@ Lab pt 3 - File is camelCaseLab.py
 The rest of the files are just a reference from my own practice and the video demo
 
 
-Update 09-05-23:
+Update 09-05-23: (READ "camelCaseLab.py" file for lab 3)
 I have modified, added, and refactored code in the camel case program for lab 3.
 
 Changes:
